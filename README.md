@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @PaulGitzzz
-- 👀 I’m interested in building apps and games in Unity.
+- 👀 I’m interested in building apps and games with Xamarin and Unity.
 - 🌱 I’m currently learning c# 
 
 <!---
